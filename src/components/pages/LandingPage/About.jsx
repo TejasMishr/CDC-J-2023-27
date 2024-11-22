@@ -121,7 +121,7 @@ const About = () => {
       </div>
       <div class="absolute left-[-150px] top-[28rem] w-[24rem] h-[24rem] rounded-full bg-[rgb(84,105,134)] opacity-25 blur-[100px]"></div>
       <div class="absolute right-[-150px] -bottom-[10rem] w-[30rem] h-[24rem] rounded-full bg-[rgb(140,111,193)] opacity-25 blur-[100px]"></div>
-      {/* <div class="absolute left-[-150px] top-[28rem] w-[24rem] h-[24rem] rounded-full bg-[rgb(84,105,134)] opacity-25 blur-[100px]"></div> */}
+      <div class="absolute left-[-150px] top-[28rem] w-[24rem] h-[24rem] rounded-full bg-[#7b8fd9] opacity-25 blur-[100px]"></div>
     </section>
   );
 };

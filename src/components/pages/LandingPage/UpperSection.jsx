@@ -5,7 +5,7 @@ import { useGradientUpdater } from "../../hooks/useGradientUpdater";
 const UpperSection = () => {
   return (
     <>
-      <header className="text-white flex flex-col z-20">
+      <header className="text-white flex flex-col z-20 w-full h-[80vh]">
         <div className="flex flex-col items-center justify-center  max-w-[80vw]  mx-auto text-center font-montserrat flex-1 relative z-10 mt-[100px] px-4">
           <div
             className="absolute top-0 right-0 w-full h-full blur-3xl"
